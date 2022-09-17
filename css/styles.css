@@ -1,0 +1,99 @@
+body {
+    font-family: "Montserrat";
+}
+
+#title, #hope {
+    background-color: #00A8CC;
+    color: #fff;
+    position: relative;
+}
+
+.container-fluid {
+    padding: 3% 15% 7% 15%;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: "Montserrat";
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+    font-weight: light;
+}
+
+/* climate-change */
+#climate-change {
+    background-color: #142850;
+    color: #fff;
+    position: relative;
+}
+
+/* 30-years-in-the-past */
+#years-in-the-past {
+    background-color: #0C7B93;
+    color: #fff;
+    position: relative;
+}
+
+/* years-in-the-future */
+#years-in-the-future {
+    background-color: #142850;
+    color: #fff;
+    position: relative;
+}
+
+/* interactive-map */
+#interactive-map {
+    background-color: #fff;
+    color: black;
+}
+
+
+/* footer */
+#footer {
+    background-color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+#footer a {
+    color: black;
+    margin: 1%;
+}
+
+#footer p {
+    margin-top: 2%;
+}  
